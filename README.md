@@ -20,19 +20,6 @@ Solana File Sharing System primarily relies on IPFS and Solana. The InterPlaneta
 - See What other users has shared
 
 
-## 🔥 Getting Started
-
-### Prerequisites
-
-- <a href="https://reactjs.org/">React</a>
-- <a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana</a>
-- <a href="https://project-serum.github.io/anchor/getting-started/introduction.html">Anchor</a>
-
-### Installation
-
-- Fork the Repository
-
-
 ## 🏅 Accomplishments that we're proud of
 
 - Completing the project within the given time frame.
@@ -50,6 +37,3 @@ Solana File Sharing System primarily relies on IPFS and Solana. The InterPlaneta
 - Making better UI for Writing and uploading data 
 
 
-## 📌 Credits :
-
-This project exists, thanks to all the people who contribute.
